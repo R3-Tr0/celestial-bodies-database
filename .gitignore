@@ -1,0 +1,19 @@
+# Local environment files and secrets
+.env
+.env.*
+
+# Database exports and logs
+*.dump
+*.backup
+*.log
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Python artifacts
+__pycache__/
+.venv/
+venv/
